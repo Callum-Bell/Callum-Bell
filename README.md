@@ -2,8 +2,9 @@
 
 <br />
 
-- 💿 I’m currently working on Project: ALM  
-- ⚡ Code in spare time, generally in relation to game modding  
+- 💿 I’m currently working on Project: ALM
+- 🎮 Just released [Black Ops 3 - Rank Up Plugin](https://insanux.com/bo3-rankup-mod)
+- ⚡ Code in spare time, generally in relation to game modding
 
 <br />
 
