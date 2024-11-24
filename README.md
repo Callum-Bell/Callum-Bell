@@ -24,8 +24,8 @@
 <br />
 
 <div align="center">
-    <a href="https://paypal.me/callum265" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
+    <a href="https://www.patreon.com/InsaneCallum/membership" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Support-Patreon-orange?style=flat-square&logo=patreon" align="center" />
     </a>
 </div>
 
