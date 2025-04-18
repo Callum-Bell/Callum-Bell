@@ -3,8 +3,15 @@
 <br />
 
 - 💿 I’m currently working on Project: ALM
-- 🎮 Just released [Black Ops 3 - Rank Up Plugin](https://insanux.com/bo3-rankup-mod)
 - ⚡ Code in spare time, generally in relation to game modding
+
+<br />
+## Project Repositories
+
+<br />
+
+- 🎮 [Black Ops 3 - Rank Up Plugin](https://insanux.com/bo3-rankup-mod)
+- 📖 [ETS2/ATS - ScsUnitDecrypt](https://github.com/Callum-Bell/ScsUnitDecrypt)
 
 <br />
 
