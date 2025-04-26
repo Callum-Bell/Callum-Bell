@@ -13,6 +13,7 @@
 
 - 🎮 [Black Ops 3 - Rank Up Plugin](https://insanux.com/bo3-rankup-mod)
 - 📖 [ETS2/ATS - ScsUnitDecrypt](https://github.com/Callum-Bell/ScsUnitDecrypt)
+- 🔌 [ETS2/ATS - ScsUnitTypeCheckBypass](https://github.com/Insanux-Mods/ScsUnitTypeCheckIgnore)
 
 <br />
 
