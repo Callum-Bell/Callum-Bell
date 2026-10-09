@@ -11,6 +11,7 @@
 
 <br />
 
+- 📖 [DeckyXMB](https://github.com/Callum-Bell/DeckyXMB)
 - 🎮 [Black Ops 3 - Rank Up Plugin](https://github.com/Callum-Bell/BO3-Mod-Check-Patch)
 - 📖 [ETS2/ATS - ScsUnitDecrypt](https://github.com/Callum-Bell/ScsUnitDecrypt)
 - 🔌 [ETS2/ATS - ScsUnitTypeCheckBypass](https://github.com/Insanux-Mods/ScsUnitTypeCheckIgnore)
